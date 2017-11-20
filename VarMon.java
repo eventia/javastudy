@@ -8,6 +8,7 @@ public class VarMon {
 		int i = 10;
 		int j = 20;
 		int h = 0;
+		int k = 100;
 		char c1 = 'a';
 		char c2 = '한';
 		char c3 = '^';
@@ -17,6 +18,7 @@ public class VarMon {
 		System.out.println(i);
 		System.out.println(j);
 		System.out.println(h);
+		System.out.println(k);
 		System.out.println(c1);
 		System.out.println(c2);
 		System.out.println("c3 = "+c3);
